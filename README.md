@@ -19,4 +19,3 @@ Amazon sales report
 
 ---
 
-This description emphasizes your ability to handle data processing and visualization, along with the use of DAX for creating measures, showcasing your advanced data analysis skills.
